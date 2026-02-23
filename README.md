@@ -39,9 +39,14 @@
 ### ⚙️ Frameworks & Libraries
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+<img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+  alt="Express.js"
+  width="40"
+  height="40"
+  style="filter: invert(1) grayscale(5) brightness(0.7);"
+/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-icon.svg" alt="REST API" width="40" height="40"/>
 </p>
 
 ---
@@ -56,7 +61,13 @@
 
 ### ☁️ Cloud (Basic)
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+ <img
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  alt="AWS"
+  width="40"
+  height="40"
+  style="filter: grayscale(1) brightness(0.7);"
+/>
 </p>
 
 **AWS Services:** EC2, S3, RDS, DynamoDB, ELB, IAM
